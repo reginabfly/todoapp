@@ -1,6 +1,6 @@
 # To Do Maker
 
-The To Do Maker was built utilizing HTML, CSS and jQuery. This application was a good exericse to practice manipulating the DOM using jQuery.
+The To Do Maker was built utilizing HTML, CSS and jQuery. This application was a good exercise to practice manipulating the DOM using jQuery.
 
 ## About The Game
 
